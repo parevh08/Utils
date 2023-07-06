@@ -1,11 +1,3 @@
-//
-//  CalendarManager.swift
-//  CustomCalendar
-//
-//  Created by Евгений Пархомчук on 15.06.2023.
-//
-
-import Foundation
 
 class CalendarManager {
     
